@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: rgb(133, 139, 151);
+}
+
+
+.posts {
+    width: 100%;
+    max-width: 1200px;
+    overflow: hidden;
+    margin: auto;
+}
+
+.post {
+    width: 47%;
+    overflow: hidden;
+    margin: 10px;
+    border-radius: 6px;
+    box-shadow: 0 0 10px black;
+    float: left;
+}
